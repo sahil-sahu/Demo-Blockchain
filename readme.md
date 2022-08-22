@@ -5,4 +5,4 @@ This is projects include :
 	-> hashing and validating of transactions
 	-> making a blockchain
 	-> adding proof of stake consensus
-	-> and practing of nodes and P2P network
+	-> and practicing of nodes and P2P network
